@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "PurchaseListID": "PL_20260610_001",
+    "CreatedOn": "2026-06-10T08:53:36.0087015Z",
+    "CreatedBy": "k64121947",
+    "TotalEstimation": 2000,
+    "Status": "Draft",
+    "PlannedDate": "2026-06-13T00:00:00",
+    "Remarks": "Savings reserved for LAB Projector Purchase Rs. 2000 for out of 6000",
+    "Deducted": true
+  },
+  "materials": [
+    {
+      "SlNo": 1,
+      "MID": "Reserving for Projector Purchase for LAB",
+      "Title": null,
+      "PartNumber": "",
+      "Manufacturer": "E GATE",
+      "SupplierType": "Online",
+      "SupplierName": "AMAZON.IN",
+      "Quantity": 1,
+      "UnitCost": 2000,
+      "Estimation": 2000
+    }
+  ]
+}
