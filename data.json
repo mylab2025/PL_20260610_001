@@ -3,11 +3,14 @@
     "PurchaseListID": "PL_20260610_001",
     "CreatedOn": "2026-06-10T08:53:36.0087015Z",
     "CreatedBy": "k64121947",
+    "EditedBy": "k64121947",
+    "EditedOn": "2026-06-10T09:27:31.1062912Z",
     "TotalEstimation": 2000,
-    "Status": "Draft",
+    "Status": "Dropped",
     "PlannedDate": "2026-06-13T00:00:00",
-    "Remarks": "Savings reserved for LAB Projector Purchase Rs. 2000 for out of 6000",
-    "Deducted": true
+    "Remarks": "Savings reserved for LAB Projector Purchase Rs. 2000 for out of 6000.\r\n\r\n****Plan in next Q*****Rejected*****",
+    "Deducted": false,
+    "Approval": "Rejected"
   },
   "materials": [
     {
